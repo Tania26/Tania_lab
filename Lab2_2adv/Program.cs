@@ -21,7 +21,7 @@ namespace Lab2_2adv
 
             Console.Write("Enter the Max value: ");
             int value = int.Parse(Console.ReadLine());
-            //// здесь не знаю как присвоить своё максимальное число
+            //// здесь не знаю как присвоить своё максимальное число??
 
             int trying;
             int value_gues;
