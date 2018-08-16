@@ -17,11 +17,18 @@ namespace Lab2_2adv
 
             Console.Write("Enter the Max value: ");
             int value = int.Parse(Console.ReadLine());
-            //// здесь не знаю как присвоить своё максимальное число??
 
             //Вам тепер треба число, яке Ви ввели "value" передати як параметр
             //у метод Next(), тобто так Ви вказуєте цьому методу, що MAX має бути введене значення
             int Guess_number = random.Next(value) + 1;
+            /*
+             Ще один варіант присвоєння масиву :
+             -замість 
+             Random random = new Random();
+             int Guess_number = random.Next(value) + 1;
+             - можна вказати
+             int Guess_number = new Random().Next(value) + 1;
+             */
 
             // implement input of number and comparison result message in the while circle with  comparison condition  
 
