@@ -8,6 +8,7 @@ namespace Lab1
 {//test 
     /// <summary>
     /// My Test))
+    /// My Test2))
     /// </summary>
     class Program
     {
