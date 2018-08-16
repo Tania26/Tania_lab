@@ -1,0 +1,7 @@
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\bin\Debug\Lab2_2adv.exe.config
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\bin\Debug\Lab2_2adv.exe
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\bin\Debug\Lab2_2adv.pdb
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\obj\Debug\Lab2_2adv.csprojAssemblyReference.cache
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\obj\Debug\Lab2_2adv.csproj.CoreCompileInputs.cache
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\obj\Debug\Lab2_2adv.exe
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\Lab2_2adv\obj\Debug\Lab2_2adv.pdb

@@ -5,3 +5,10 @@ D:\MainAcad\HomeWork\KyrsLab\KyrsLab\obj\Debug\Lab1.csprojAssemblyReference.cach
 D:\MainAcad\HomeWork\KyrsLab\KyrsLab\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 D:\MainAcad\HomeWork\KyrsLab\KyrsLab\obj\Debug\KyrsLab.exe
 D:\MainAcad\HomeWork\KyrsLab\KyrsLab\obj\Debug\KyrsLab.pdb
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\bin\Debug\KyrsLab.exe.config
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\bin\Debug\KyrsLab.exe
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\bin\Debug\KyrsLab.pdb
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\KyrsLab.exe
+D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\KyrsLab.pdb
