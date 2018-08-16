@@ -1,0 +1,6 @@
+C:\Users\andri\Source\Repos\Tania_lab\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\andri\Source\Repos\Tania_lab\Lab3\bin\Debug\Lab3.exe
+C:\Users\andri\Source\Repos\Tania_lab\Lab3\bin\Debug\Lab3.pdb
+C:\Users\andri\Source\Repos\Tania_lab\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\andri\Source\Repos\Tania_lab\Lab3\obj\Debug\Lab3.exe
+C:\Users\andri\Source\Repos\Tania_lab\Lab3\obj\Debug\Lab3.pdb

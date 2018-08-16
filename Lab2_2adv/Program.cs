@@ -10,18 +10,20 @@ namespace Lab2_2adv
     {
         static void Main(string[] args)
         {
-            const int MyMax = 200; //200
-
-            Random random = new Random();
+            //якщо Ви хочете задавати max по введеному числу з клави, то цього не потрібно  
+            //const int MyMax = 200; //200
             // random.Next(MaxValue) returns a 32-bit signed integer that is greater than or equal to 0 and less than MaxValue
-
-            
-            int Guess_number = random.Next(MyMax) + 1;
-            // implement input of number and comparison result message in the while circle with  comparison condition
+            Random random = new Random();
 
             Console.Write("Enter the Max value: ");
             int value = int.Parse(Console.ReadLine());
             //// здесь не знаю как присвоить своё максимальное число??
+
+            //Вам тепер треба число, яке Ви ввели "value" передати як параметр
+            //у метод Next(), тобто так Ви вказуєте цьому методу, що MAX має бути введене значення
+            int Guess_number = random.Next(value) + 1;
+
+            // implement input of number and comparison result message in the while circle with  comparison condition  
 
             int trying;
             int value_gues;
@@ -32,7 +34,6 @@ namespace Lab2_2adv
 
             while (trying > value) 
                 { 
-
                     Console.WriteLine("Too many trying!!! Please choose value < {0}", value);
                     Console.Write("Enter count your trying: ");
                     trying = int.Parse(Console.ReadLine()); //count try guess number 

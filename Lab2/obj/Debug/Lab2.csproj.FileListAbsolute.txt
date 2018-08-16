@@ -5,3 +5,8 @@ D:\MainAcad\HomeWork\KyrsLab\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
 D:\MainAcad\HomeWork\KyrsLab\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
 D:\MainAcad\HomeWork\KyrsLab\Lab2\obj\Debug\Lab2.exe
 D:\MainAcad\HomeWork\KyrsLab\Lab2\obj\Debug\Lab2.pdb
+C:\Users\andri\Source\Repos\Tania_lab\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\andri\Source\Repos\Tania_lab\Lab2\bin\Debug\Lab2.exe
+C:\Users\andri\Source\Repos\Tania_lab\Lab2\bin\Debug\Lab2.pdb
+C:\Users\andri\Source\Repos\Tania_lab\Lab2\obj\Debug\Lab2.exe
+C:\Users\andri\Source\Repos\Tania_lab\Lab2\obj\Debug\Lab2.pdb

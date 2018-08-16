@@ -12,3 +12,9 @@ D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\Lab1.csprojAssemblyRefe
 D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\KyrsLab.exe
 D:\MainAcad\HomeWork\KyrsLab\Tania_lab\KyrsLab\obj\Debug\KyrsLab.pdb
+C:\Users\andri\Source\Repos\Tania_lab\KyrsLab\bin\Debug\KyrsLab.exe.config
+C:\Users\andri\Source\Repos\Tania_lab\KyrsLab\obj\Debug\KyrsLab.exe
+C:\Users\andri\Source\Repos\Tania_lab\KyrsLab\obj\Debug\KyrsLab.pdb
+C:\Users\andri\Source\Repos\Tania_lab\KyrsLab\bin\Debug\KyrsLab.exe
+C:\Users\andri\Source\Repos\Tania_lab\KyrsLab\bin\Debug\KyrsLab.pdb
+C:\Users\andri\Source\Repos\Tania_lab\KyrsLab\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
