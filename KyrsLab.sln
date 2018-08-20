@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "KyrsLab\Lab1.csproj", "{FEC331E1-9917-4CB2-B093-2103E3E1827D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_3", "Lab2\Lab1_3.csproj", "{91093A5F-30BC-4B09-A86C-31711896865E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{91093A5F-30BC-4B09-A86C-31711896865E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_4", "Lab3\Lab1_4.csproj", "{8450F7AA-93DB-465B-8C60-ADBC28868E21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{8450F7AA-93DB-465B-8C60-ADBC28868E21}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_2adv", "Lab2_2adv\Lab2_2adv.csproj", "{CEE853B7-08E6-4C8B-AA30-0FF969B690DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_3adv", "Lab2_2adv\Lab1_3adv.csproj", "{CEE853B7-08E6-4C8B-AA30-0FF969B690DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FEC331E1-9917-4CB2-B093-2103E3E1827D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEC331E1-9917-4CB2-B093-2103E3E1827D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEC331E1-9917-4CB2-B093-2103E3E1827D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEC331E1-9917-4CB2-B093-2103E3E1827D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91093A5F-30BC-4B09-A86C-31711896865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91093A5F-30BC-4B09-A86C-31711896865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91093A5F-30BC-4B09-A86C-31711896865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
