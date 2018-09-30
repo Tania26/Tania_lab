@@ -17,6 +17,7 @@ namespace Lab1_4
         {
             public int cpu;
             public int memory;
+            public double hgz;
             public int hdd;
             public ComputerType comptype;
         }
@@ -26,14 +27,8 @@ namespace Lab1_4
             // 3) declare jagged array of computers size 4 (4 departments)
             int[][] departments = new int[4][];
 
-           ////// Create a new array in the jagged array, and assign it.
-            departments[0] = new int[4];
-            departments[0][0] = 1;
-            departments[0][1] = 2;
-            departments[1][0] = 3;
-            departments[1][1] = 4;
-
             // 4) set the size of every array in jagged array (number of computers)
+            departments[0] = new int[4];
             departments[1] = new int[3] { 2, 2, 1 };
             departments[2] = new int[] { 3 };
             departments[3] = new int[2] { 3, 2 };
