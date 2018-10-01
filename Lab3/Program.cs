@@ -25,18 +25,37 @@ namespace Lab1_4
         static void Main(string[] args)
         {
             // 3) declare jagged array of computers size 4 (4 departments)
-            int[][] departments = new int[4][];
+            //Так як ми ж хочемо щоб в нас були зубчасті масиви комп'ютерів, 
+            //а не просто чисел типу int (departments[1] = new int[3] { 2, 2, 1 };)
+            //тому для цього в нас вище і створена структура (користувацький тип)  Computer, тому створюємо масив саме цього типу:
+            Computer[,][] computers = new Computer[4, 3][]; //Виділяємо пам'ять для зубчастого масиву якиє має тип Computer
 
             // 4) set the size of every array in jagged array (number of computers)
-            departments[0] = new int[4];
-            departments[1] = new int[3] { 2, 2, 1 };
-            departments[2] = new int[] { 3 };
-            departments[3] = new int[2] { 3, 2 };
-            departments[4] = new int[3] { 1, 1, 2 };
+
+            computers[0, 0] = new Computer[2];
+            computers[0, 1] = new Computer[2];
+            computers[0, 2] = new Computer[1];
+            computers[1, 0] = new Computer[0];
+            computers[1, 1] = new Computer[3];
+            computers[1, 2] = new Computer[0];
+            computers[2, 0] = new Computer[3];
+            computers[2, 1] = new Computer[2];
+            computers[2, 2] = new Computer[0];
+            computers[3, 0] = new Computer[1];
+            computers[3, 1] = new Computer[1];
+            computers[3, 2] = new Computer[2];
 
 
             // 5) initialize array
             // Note: use loops and if-else statements
+
+            //Ось так можна ініціалізувати елементи зубчатого масиву, але треба передбачити різні параметри комп'ютерів
+            //в залежності від типу ComputerType (описаний вище), та продумати кількість циклів для запису всіх значень.
+
+            //computers[i, j][k].CPU_cores = (byte)(4 + 2 * k);
+            //computers[i, j][k].CPU_frequency = 2.5f;
+            //computers[i, j][k].memory = 6;
+            //computers[i, j][k].HDD = 500;
 
 
             // 6) count total number of every type of computers
